@@ -5,4 +5,4 @@ Trabalhos com Node.JS:
 
 -Criar e excluir arquivos => create
 
--Fazer a leitura de arquivos e gravar em arquivos =>
+-Fazer a leitura de arquivos e gravar em arquivos => create-read
